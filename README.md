@@ -15,8 +15,6 @@ An interactive web application built with Python and Streamlit that simulates th
 ---
 
 ## Screenshots
-
-> Add screenshots of your app here
 <img width="1806" height="473" alt="image" src="https://github.com/user-attachments/assets/210685d3-e7e1-4c68-af28-edfe697a4a5b" />
 
 <img width="1757" height="1012" alt="image" src="https://github.com/user-attachments/assets/07fb6da9-ad1b-4c59-a6b1-4d314d89a5cb" />
